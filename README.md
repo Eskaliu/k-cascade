@@ -1,3 +1,3 @@
 # k-cascade
-This Project is to proof the k-cascade lemma which can be to proof the Kruskal-Katona-Theorem. This is my first Project so it's a little messy and since I didn't predict uploading it here I did my comments in german for now. 
-I split the main file in 2 just for performance reasons while working on the project.
+Dieses Projekt verifiziert das k-Kaskadenlemma in LEAN welches im Beweis des Kruskal-Katona-Theorems Einsatz findet. Die Verifikation ist ein Hauptbestandteil meine Bachelorareit mit dem Titel: "Das Kaskadenlemma und das
+Kruskal-Katona-Theorem Lean Code vs. perfekte menschliche Beweise"
